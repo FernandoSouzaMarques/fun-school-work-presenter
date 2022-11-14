@@ -26,14 +26,14 @@ const config = {
 
     return config;
   },
-  rewrites() {
-    return [
-      {
-        source: '/:any*',
-        destination: '/',
-      },
-    ];
-  },
+  // rewrites() {
+  //   return [
+  //     {
+  //       source: '/:any*',
+  //       destination: '/',
+  //     },
+  //   ];
+  // },
 };
 
 module.exports = withBundleAnalyzer(config);

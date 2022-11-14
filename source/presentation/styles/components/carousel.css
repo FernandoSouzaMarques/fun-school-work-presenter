@@ -1,0 +1,43 @@
+:root {
+  --swiper-theme-color: #fff;
+}
+
+.swiper-container {
+  @apply w-full h-full;
+}
+
+.swiper-slide {
+  @apply text-center text-lg;
+}
+
+.carousel-slider .swiper {
+  @apply overflow-visible relative;
+}
+
+.carousel-slider .swiper-wrapper {
+  @apply py-5;
+}
+
+.carousel-slider .swiper-slide {
+  @apply transition-all duration-300;
+}
+
+.carousel-slider .swiper-slide:hover {
+  @apply z-10 scale-125;
+}
+
+.carousel-slider .swiper-slide:first-child:hover {
+  @apply mx-10;
+}
+
+.carousel-slider .swiper-slide:last-child:hover {
+  @apply -mx-10;
+}
+
+.carousel-slider .swiper-slide .carousel-item-info {
+  @apply opacity-0 select-none invisible;
+}
+
+.carousel-slider .swiper-slide:hover .carousel-item-info {
+  @apply transition-all duration-300 select-auto visible opacity-100;
+}

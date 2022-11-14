@@ -1,0 +1,11 @@
+html, body {
+    @apply relative h-full;
+}
+
+body {
+    @apply bg-dark text-white min-h-screen h-full;
+}
+
+#__next {
+    @apply min-h-screen h-full;
+}

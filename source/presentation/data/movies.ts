@@ -1,0 +1,112 @@
+export const categories = [
+  {
+    name: "Filmes de Terror",
+    order: 1,
+    list: [
+      {
+        id: "3c734f81-8617-4d90-8072-4b8470eadc59",
+        title: "Lucifer",
+        imageSource: "https://pausadrammatica.files.wordpress.com/2020/09/lucifer-tom_ellis.jpg?w=1200",
+        time: "1h40min",
+        categories: ["Terror", "Terror", "Terror"],
+      },
+      {
+        id: "3c734f81-8617-4d90-8072-4b8470eadc55",
+        title: "Lucifer",
+        imageSource: "https://pausadrammatica.files.wordpress.com/2020/09/lucifer-tom_ellis.jpg?w=1200",
+        time: "1h40min",
+        categories: ["Terror", "Terror", "Terror"],
+      },
+      {
+        id: "3c734f81-8617-4d90-8072-4b8470eadc59",
+        title: "Lucifer",
+        imageSource: "https://pausadrammatica.files.wordpress.com/2020/09/lucifer-tom_ellis.jpg?w=1200",
+        time: "1h40min",
+        categories: ["Terror", "Terror", "Terror"],
+      },
+      {
+        id: "3c734f81-8617-4d90-8072-4b8470eadc55",
+        title: "Lucifer",
+        imageSource: "https://pausadrammatica.files.wordpress.com/2020/09/lucifer-tom_ellis.jpg?w=1200",
+        time: "1h40min",
+        categories: ["Terror", "Terror", "Terror"],
+      },
+      {
+        id: "3c734f81-8617-4d90-8072-4b8470eadc59",
+        title: "Lucifer",
+        imageSource: "https://pausadrammatica.files.wordpress.com/2020/09/lucifer-tom_ellis.jpg?w=1200",
+        time: "1h40min",
+        categories: ["Terror", "Terror", "Terror"],
+      },
+      {
+        id: "3c734f81-8617-4d90-8072-4b8470eadc55",
+        title: "Lucifer",
+        imageSource: "https://pausadrammatica.files.wordpress.com/2020/09/lucifer-tom_ellis.jpg?w=1200",
+        time: "1h40min",
+        categories: ["Terror", "Terror", "Terror"],
+      },
+    ],
+  },
+  {
+    name: "Filmes de Suspense",
+    order: 2,
+    list: [
+      {
+        id: "3c734f81-8617-4d90-8072-4b8470eadc52",
+        title: "Lucifer",
+        imageSource: "https://pausadrammatica.files.wordpress.com/2020/09/lucifer-tom_ellis.jpg?w=1200",
+        time: "1h40min",
+        categories: ["Terror", "Terror", "Terror"],
+      },
+      {
+        id: "3c734f81-8617-4d90-8072-4b8470eddc59",
+        title: "Lucifer",
+        imageSource: "https://pausadrammatica.files.wordpress.com/2020/09/lucifer-tom_ellis.jpg?w=1200",
+        time: "1h40min",
+        categories: ["Terror", "Terror", "Terror"],
+      },
+      {
+        id: "3c734f81-8617-4d90-8072-4b8470eadc59",
+        title: "Lucifer",
+        imageSource: "https://pausadrammatica.files.wordpress.com/2020/09/lucifer-tom_ellis.jpg?w=1200",
+        time: "1h40min",
+        categories: ["Terror", "Terror", "Terror"],
+      },
+      {
+        id: "3c734f81-8617-4d90-8072-4b8470eadc55",
+        title: "Lucifer",
+        imageSource: "https://pausadrammatica.files.wordpress.com/2020/09/lucifer-tom_ellis.jpg?w=1200",
+        time: "1h40min",
+        categories: ["Terror", "Terror", "Terror"],
+      },
+      {
+        id: "3c734f81-8617-4d90-8072-4b8470eadc59",
+        title: "Lucifer",
+        imageSource: "https://pausadrammatica.files.wordpress.com/2020/09/lucifer-tom_ellis.jpg?w=1200",
+        time: "1h40min",
+        categories: ["Terror", "Terror", "Terror"],
+      },
+      {
+        id: "3c734f81-8617-4d90-8072-4b8470eadc55",
+        title: "Lucifer",
+        imageSource: "https://pausadrammatica.files.wordpress.com/2020/09/lucifer-tom_ellis.jpg?w=1200",
+        time: "1h40min",
+        categories: ["Terror", "Terror", "Terror"],
+      },
+      {
+        id: "3c734f81-8617-4d90-8072-4b8470eadc59",
+        title: "Lucifer",
+        imageSource: "https://pausadrammatica.files.wordpress.com/2020/09/lucifer-tom_ellis.jpg?w=1200",
+        time: "1h40min",
+        categories: ["Terror", "Terror", "Terror"],
+      },
+      {
+        id: "3c734f81-8617-4d90-8072-4b8470eadc55",
+        title: "Lucifer",
+        imageSource: "https://pausadrammatica.files.wordpress.com/2020/09/lucifer-tom_ellis.jpg?w=1200",
+        time: "1h40min",
+        categories: ["Terror", "Terror", "Terror"],
+      },
+    ],
+  }
+]
